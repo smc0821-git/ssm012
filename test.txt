@@ -8,6 +8,11 @@ hello owrld
 第五次 ssh Song-Mc
 第五次呜呜呜
 第六次  哭
+第七次 不要哭
 第七次  哭哭
 第八次  哭哭哭
+<<<<<<< HEAD
 第十次 哭流哭哭
+=======
+第九次  哭哭哭哭
+>>>>>>> remotes/origin/master
